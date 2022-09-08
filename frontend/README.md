@@ -1,7 +1,3 @@
-# Staffany Take Home Test - Frontend
-
-This repo was generated with Create React App
-
 ## Stacks
 
 - Framework: ReactJS
