@@ -1,5 +1,3 @@
-# Staffany Take Home Test - Backend
-
 ## Stacks
 - Framework: Hapi JS
 - ORM: TypeORM
